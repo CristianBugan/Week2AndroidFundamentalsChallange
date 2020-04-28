@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidFundamentals04</string>
+    <string name="MovieCristi">Movie name</string>
+    <string name="Save">Save</string>
+    <string name="imi_place_aplicatia_asta">Imi place aplicatia asta</string>
+    <string name="castigatoru_oscaruluuuuui">Castigatoru\' oscaruluuuuui</string>
+    <string name="TextButon1">THIS IS A BUTTON</string>
+    <string name="my_orange_text_view">My orange text view</string>
+    <string name="my_green_text_view">My Green Text view</string>
+    <string name="this_is_a_blue_text_view">This is a BLUE text view</string>
+    <string name="this_is_a_random_button">This is a random button</string>
+    <string name="un_buton_verde">Un buton verde</string>
+    <string name="this_is_an_edit_text">This is an Edit Text</string>
+    <string name="a_new_edit_text">A new edit Text</string>
+    <string name="notify_me">Notify me</string>
+    <string name="auto_backup">Auto Backup</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
